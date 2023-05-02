@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Chef John",
+      "id": 1,
+      "rating": 4.5,
+      "likes": 1023,
+      "picture": "https://example.com/chef-john.jpg",
+      "experience": "10 years",
+      "numOfRecipes": 50
+    },
+    {
+      "name": "Chef Julia",
+      "id": 2,
+      "rating": 4.2,
+      "likes": 987,
+      "picture": "https://example.com/chef-julia.jpg",
+      "experience": "8 years",
+      "numOfRecipes": 40
+    },
+    {
+      "name": "Chef Gordon",
+      "id": 3,
+      "rating": 4.8,
+      "likes": 1532,
+      "picture": "https://example.com/chef-gordon.jpg",
+      "experience": "15 years",
+      "numOfRecipes": 75
+    },
+    {
+      "name": "Chef Maria",
+      "id": 4,
+      "rating": 4.3,
+      "likes": 846,
+      "picture": "https://example.com/chef-maria.jpg",
+      "experience": "12 years",
+      "numOfRecipes": 60
+    },
+    {
+      "name": "Chef David",
+      "id": 5,
+      "rating": 4,
+      "likes": 721,
+      "picture": "https://example.com/chef-david.jpg",
+      "experience": "6 years",
+      "numOfRecipes": 30
+    },
+    {
+      "name": "Chef Emily",
+      "id": 6,
+      "rating": 4.7,
+      "likes": 1342,
+      "picture": "https://example.com/chef-emily.jpg",
+      "experience": "9 years",
+      "numOfRecipes": 45
+    }
+  ]
