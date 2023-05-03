@@ -4,7 +4,7 @@
       "id": 1,
       "rating": 4.5,
       "likes": 1023,
-      "picture": "https://example.com/chef-john.jpg",
+      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
       "experience": "10 years",
       "numOfRecipes": 50
     },
@@ -13,7 +13,7 @@
       "id": 2,
       "rating": 4.2,
       "likes": 987,
-      "picture": "https://example.com/chef-julia.jpg",
+      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
       "experience": "8 years",
       "numOfRecipes": 40
     },
@@ -22,7 +22,7 @@
       "id": 3,
       "rating": 4.8,
       "likes": 1532,
-      "picture": "https://example.com/chef-gordon.jpg",
+      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
       "experience": "15 years",
       "numOfRecipes": 75
     },
@@ -31,7 +31,7 @@
       "id": 4,
       "rating": 4.3,
       "likes": 846,
-      "picture": "https://example.com/chef-maria.jpg",
+      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
       "experience": "12 years",
       "numOfRecipes": 60
     },
@@ -40,7 +40,7 @@
       "id": 5,
       "rating": 4,
       "likes": 721,
-      "picture": "https://example.com/chef-david.jpg",
+      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
       "experience": "6 years",
       "numOfRecipes": 30
     },
@@ -49,7 +49,7 @@
       "id": 6,
       "rating": 4.7,
       "likes": 1342,
-      "picture": "https://example.com/chef-emily.jpg",
+      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
       "experience": "9 years",
       "numOfRecipes": 45
     }

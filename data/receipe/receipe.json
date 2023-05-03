@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "recipeName": "Pasta with Tomato Sauce",
+        "categoryId": 1,
+        "photo": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "pasta",
+            "tomato sauce",
+            "olive oil",
+            "garlic",
+            "onion"
+        ],
+        "cookingMethod": "1. Boil pasta according to package instructions. \n2. In a pan, sauté garlic and onion in olive oil. \n3. Add tomato sauce and simmer for 10 minutes. \n4. Toss pasta with tomato sauce. ",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipeName": "Grilled Salmon",
+        "categoryId": 1,
+        "photo": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "salmon fillet",
+            "lemon",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Season salmon fillet with salt, pepper, and olive oil. \n3. Grill for 5-7 minutes on each side, or until cooked to your liking. \n4. Squeeze lemon juice over the salmon before serving.",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "recipeName": "Chicken Tikka Masala",
+        "categoryId": 1,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "chicken breast",
+            "yogurt",
+            "tomato sauce",
+            "garam masala",
+            "ginger",
+            "garlic",
+            "lemon juice"
+        ],
+        "cookingMethod": "1. Marinate chicken in yogurt, garam masala, ginger, garlic, and lemon juice for at least 1 hour. \n2. Preheat oven to 450°F. \n3. Arrange chicken on a baking sheet and bake for 15-20 minutes, or until cooked through. \n4. In a pan, heat tomato sauce and add cooked chicken. \n5. Simmer for 10 minutes before serving.",
+        "rating": 4.9
+    },
+    {
+        "id": 4,
+        "recipeName": "Spaghetti Bolognese",
+        "categoryId": 2,
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "canned tomatoes",
+            "onion",
+            "garlic",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a large skillet over medium heat. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, salt, and pepper, and simmer for 10 minutes. 5. Serve over spaghetti.",
+        "rating": 4.5,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 5,
+        "recipeName": "Chicken Caesar Salad",
+        "categoryId": 2,
+        "ingredients": [
+            "romaine lettuce",
+            "grilled chicken breast",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing"
+        ],
+        "cookingMethod": "1. Grill chicken breast until cooked through. 2. Chop romaine lettuce into bite-sized pieces. 3. Toss lettuce with croutons, parmesan cheese, and Caesar dressing. 4. Slice chicken breast and add to the salad.",
+        "rating": 4.2,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "recipeName": "Beef Stroganoff",
+        "categoryId": 2,
+        "ingredients": [
+            "beef sirloin",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "sour cream",
+            "egg noodles"
+        ],
+        "cookingMethod": "1. Cook egg noodles according to package directions. 2. Slice beef sirloin into thin strips. 3. Brown beef in a large skillet over medium heat. 4. Add onion and mushrooms and cook until softened. 5. Add beef broth and simmer for 10 minutes. 6. Remove from heat and stir in sour cream. 7. Serve over egg noodles.",
+        "rating": 4.8,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 7,
+        "recipeName": "Lemon Garlic Shrimp Linguine",
+        "categoryId": 3,
+        "ingredients": [
+            "linguine",
+            "shrimp",
+            "lemon",
+            "garlic",
+            "butter",
+            "salt",
+            "pepper",
+            "parsley"
+        ],
+        "cookingMethod": "1. Cook linguine according to package directions. 2. In a large skillet over medium heat, melt butter and sauté garlic until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze in fresh lemon juice and sprinkle with salt and pepper. 5. Toss with cooked linguine and top with chopped parsley.",
+        "rating": 4.7,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 8,
+        "recipeName": "Grilled Chicken and Vegetable Skewers",
+        "categoryId": 3,
+        "ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "red onion",
+            "zucchini",
+            "olive oil",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. Cut chicken breast and vegetables into bite-sized pieces. 2. Thread onto skewers. 3. In a small bowl, mix olive oil, garlic, salt, and pepper. 4. Brush the mixture onto the skewers. 5. Grill for 10-12 minutes, turning occasionally, until chicken is cooked through and vegetables are tender.",
+        "rating": 4.2,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 9,
+        "recipeName": "Vegetarian Lentil Chili",
+        "categoryId": 3,
+        "ingredients": [
+            "lentils",
+            "diced tomatoes",
+            "bell pepper",
+            "onion",
+            "carrot",
+            "celery",
+            "vegetable broth",
+            "chili powder",
+            "cumin",
+            "paprika",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. In a large pot over medium heat, sauté onion, bell pepper, carrot, and celery until softened. 2. Add diced tomatoes, lentils, vegetable broth, chili powder, cumin, paprika, salt, and pepper. 3. Bring to a boil, then reduce heat and simmer for 30-40 minutes, until lentils are tender. 4. Serve hot.",
+        "rating": 4.5,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 10,
+        "recipeName": "Pasta with Tomato Sauce",
+        "categoryId": 4,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "pasta",
+            "tomato sauce",
+            "olive oil",
+            "garlic",
+            "onion"
+        ],
+        "cookingMethod": "1. Boil pasta according to package instructions. \n2. In a pan, sauté garlic and onion in olive oil. \n3. Add tomato sauce and simmer for 10 minutes. \n4. Toss pasta with tomato sauce. ",
+        "rating": 4.5
+    },
+    {
+        "id": 11,
+        "recipeName": "Grilled Salmon",
+        "categoryId": 4,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "salmon fillet",
+            "lemon",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Season salmon fillet with salt, pepper, and olive oil. \n3. Grill for 5-7 minutes on each side, or until cooked to your liking. \n4. Squeeze lemon juice over the salmon before serving.",
+        "rating": 4.8
+    },
+    {
+        "id": 12,
+        "recipeName": "Chicken Tikka Masala",
+        "categoryId": 4,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "chicken breast",
+            "yogurt",
+            "tomato sauce",
+            "garam masala",
+            "ginger",
+            "garlic",
+            "lemon juice"
+        ],
+        "cookingMethod": "1. Marinate chicken in yogurt, garam masala, ginger, garlic, and lemon juice for at least 1 hour. \n2. Preheat oven to 450°F. \n3. Arrange chicken on a baking sheet and bake for 15-20 minutes, or until cooked through. \n4. In a pan, heat tomato sauce and add cooked chicken. \n5. Simmer for 10 minutes before serving.",
+        "rating": 4.9
+    },
+    {
+        "id": 13,
+        "recipeName": "Spaghetti Bolognese",
+        "categoryId": 5,
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "canned tomatoes",
+            "onion",
+            "garlic",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a large skillet over medium heat. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, salt, and pepper, and simmer for 10 minutes. 5. Serve over spaghetti.",
+        "rating": 4.5,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 14,
+        "recipeName": "Chicken Caesar Salad",
+        "categoryId": 5,
+        "ingredients": [
+            "romaine lettuce",
+            "grilled chicken breast",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing"
+        ],
+        "cookingMethod": "1. Grill chicken breast until cooked through. 2. Chop romaine lettuce into bite-sized pieces. 3. Toss lettuce with croutons, parmesan cheese, and Caesar dressing. 4. Slice chicken breast and add to the salad.",
+        "rating": 4.2,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 15,
+        "recipeName": "Beef Stroganoff",
+        "categoryId": 5,
+        "ingredients": [
+            "beef sirloin",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "sour cream",
+            "egg noodles"
+        ],
+        "cookingMethod": "1. Cook egg noodles according to package directions. 2. Slice beef sirloin into thin strips. 3. Brown beef in a large skillet over medium heat. 4. Add onion and mushrooms and cook until softened. 5. Add beef broth and simmer for 10 minutes. 6. Remove from heat and stir in sour cream. 7. Serve over egg noodles.",
+        "rating": 4.8,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 16,
+        "recipeName": "Lemon Garlic Shrimp Linguine",
+        "categoryId": 6,
+        "ingredients": [
+            "linguine",
+            "shrimp",
+            "lemon",
+            "garlic",
+            "butter",
+            "salt",
+            "pepper",
+            "parsley"
+        ],
+        "cookingMethod": "1. Cook linguine according to package directions. 2. In a large skillet over medium heat, melt butter and sauté garlic until fragrant. 3. Add shrimp and cook until pink. 4. Squeeze in fresh lemon juice and sprinkle with salt and pepper. 5. Toss with cooked linguine and top with chopped parsley.",
+        "rating": 4.7,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 17,
+        "recipeName": "Grilled Chicken and Vegetable Skewers",
+        "categoryId": 6,
+        "ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "red onion",
+            "zucchini",
+            "olive oil",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. Cut chicken breast and vegetables into bite-sized pieces. 2. Thread onto skewers. 3. In a small bowl, mix olive oil, garlic, salt, and pepper. 4. Brush the mixture onto the skewers. 5. Grill for 10-12 minutes, turning occasionally, until chicken is cooked through and vegetables are tender.",
+        "rating": 4.2,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 18,
+        "recipeName": "Vegetarian Lentil Chili",
+        "categoryId": 6,
+        "ingredients": [
+            "lentils",
+            "diced tomatoes",
+            "bell pepper",
+            "onion",
+            "carrot",
+            "celery",
+            "vegetable broth",
+            "chili powder",
+            "cumin",
+            "paprika",
+            "salt",
+            "pepper"
+        ],
+        "cookingMethod": "1. In a large pot over medium heat, sauté onion, bell pepper, carrot, and celery until softened. 2. Add diced tomatoes, lentils, vegetable broth, chili powder, cumin, paprika, salt, and pepper. 3. Bring to a boil, then reduce heat and simmer for 30-40 minutes, until lentils are tender. 4. Serve hot.",
+        "rating": 4.5,
+        "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
