@@ -3,6 +3,7 @@
         "id": 1,
         "recipeName": "Pasta with Tomato Sauce",
         "categoryId": 1,
+        "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
         "photo": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=600",
         "ingredients": [
             "pasta",
@@ -18,6 +19,7 @@
         "id": 2,
         "recipeName": "Grilled Salmon",
         "categoryId": 1,
+        "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
         "photo": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
             "salmon fillet",
@@ -33,6 +35,7 @@
         "id": 3,
         "recipeName": "Chicken Tikka Masala",
         "categoryId": 1,
+        "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
         "photo": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
             "chicken breast",
@@ -50,6 +53,7 @@
         "id": 4,
         "recipeName": "Spaghetti Bolognese",
         "categoryId": 2,
+        "picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=740&t=st=1683121566~exp=1683122166~hmac=1a7c101b287e4ccdc93dc52571571a2d762c8a1eedc1f22806d1a9481cb2815b",
         "ingredients": [
             "spaghetti",
             "ground beef",
@@ -68,6 +72,7 @@
         "id": 5,
         "recipeName": "Chicken Caesar Salad",
         "categoryId": 2,
+        "picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=740&t=st=1683121566~exp=1683122166~hmac=1a7c101b287e4ccdc93dc52571571a2d762c8a1eedc1f22806d1a9481cb2815b",
         "ingredients": [
             "romaine lettuce",
             "grilled chicken breast",
@@ -83,6 +88,7 @@
         "id": 6,
         "recipeName": "Beef Stroganoff",
         "categoryId": 2,
+        "picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=740&t=st=1683121566~exp=1683122166~hmac=1a7c101b287e4ccdc93dc52571571a2d762c8a1eedc1f22806d1a9481cb2815b",
         "ingredients": [
             "beef sirloin",
             "onion",
@@ -99,6 +105,7 @@
         "id": 7,
         "recipeName": "Lemon Garlic Shrimp Linguine",
         "categoryId": 3,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfHhoU7AiXrERbi4pGw2m3j100KcUf0Iz9g&usqp=CAU",
         "ingredients": [
             "linguine",
             "shrimp",
@@ -117,6 +124,7 @@
         "id": 8,
         "recipeName": "Grilled Chicken and Vegetable Skewers",
         "categoryId": 3,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfHhoU7AiXrERbi4pGw2m3j100KcUf0Iz9g&usqp=CAU",
         "ingredients": [
             "chicken breast",
             "bell peppers",
@@ -135,6 +143,7 @@
         "id": 9,
         "recipeName": "Vegetarian Lentil Chili",
         "categoryId": 3,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfHhoU7AiXrERbi4pGw2m3j100KcUf0Iz9g&usqp=CAU",
         "ingredients": [
             "lentils",
             "diced tomatoes",
@@ -165,6 +174,7 @@
             "garlic",
             "onion"
         ],
+        "picture": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
         "cookingMethod": "1. Boil pasta according to package instructions. \n2. In a pan, sauté garlic and onion in olive oil. \n3. Add tomato sauce and simmer for 10 minutes. \n4. Toss pasta with tomato sauce. ",
         "rating": 4.5
     },
@@ -180,6 +190,7 @@
             "salt",
             "pepper"
         ],
+        "picture": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
         "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Season salmon fillet with salt, pepper, and olive oil. \n3. Grill for 5-7 minutes on each side, or until cooked to your liking. \n4. Squeeze lemon juice over the salmon before serving.",
         "rating": 4.8
     },
@@ -197,6 +208,7 @@
             "garlic",
             "lemon juice"
         ],
+        "picture": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
         "cookingMethod": "1. Marinate chicken in yogurt, garam masala, ginger, garlic, and lemon juice for at least 1 hour. \n2. Preheat oven to 450°F. \n3. Arrange chicken on a baking sheet and bake for 15-20 minutes, or until cooked through. \n4. In a pan, heat tomato sauce and add cooked chicken. \n5. Simmer for 10 minutes before serving.",
         "rating": 4.9
     },
@@ -204,6 +216,7 @@
         "id": 13,
         "recipeName": "Spaghetti Bolognese",
         "categoryId": 5,
+        "picture": "https://resume-example.com/wp-content/uploads/2021/05/professional-chef-man-on-job-interview-talking-with-woman-in-kitchen-1024x682.jpg",
         "ingredients": [
             "spaghetti",
             "ground beef",
@@ -222,6 +235,7 @@
         "id": 14,
         "recipeName": "Chicken Caesar Salad",
         "categoryId": 5,
+        "picture": "https://resume-example.com/wp-content/uploads/2021/05/professional-chef-man-on-job-interview-talking-with-woman-in-kitchen-1024x682.jpg",
         "ingredients": [
             "romaine lettuce",
             "grilled chicken breast",
@@ -237,6 +251,7 @@
         "id": 15,
         "recipeName": "Beef Stroganoff",
         "categoryId": 5,
+        "picture": "https://resume-example.com/wp-content/uploads/2021/05/professional-chef-man-on-job-interview-talking-with-woman-in-kitchen-1024x682.jpg",
         "ingredients": [
             "beef sirloin",
             "onion",
@@ -253,6 +268,7 @@
         "id": 16,
         "recipeName": "Lemon Garlic Shrimp Linguine",
         "categoryId": 6,
+        "picture": "https://www.staffingattiffanies.com/wp-content/uploads/2021/08/happy-male-indian-chef.jpg",
         "ingredients": [
             "linguine",
             "shrimp",
@@ -271,6 +287,7 @@
         "id": 17,
         "recipeName": "Grilled Chicken and Vegetable Skewers",
         "categoryId": 6,
+        "picture": "https://www.staffingattiffanies.com/wp-content/uploads/2021/08/happy-male-indian-chef.jpg",
         "ingredients": [
             "chicken breast",
             "bell peppers",
@@ -289,6 +306,7 @@
         "id": 18,
         "recipeName": "Vegetarian Lentil Chili",
         "categoryId": 6,
+        "picture": "https://www.staffingattiffanies.com/wp-content/uploads/2021/08/happy-male-indian-chef.jpg",
         "ingredients": [
             "lentils",
             "diced tomatoes",

@@ -9,11 +9,11 @@
       "numOfRecipes": 50
     },
     {
-      "name": "Chef Julia",
+      "name": "Mario Batali",
       "id": 2,
       "rating": 4.2,
       "likes": 987,
-      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+      "picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=740&t=st=1683121566~exp=1683122166~hmac=1a7c101b287e4ccdc93dc52571571a2d762c8a1eedc1f22806d1a9481cb2815b",
       "experience": "8 years",
       "numOfRecipes": 40
     },
@@ -22,16 +22,16 @@
       "id": 3,
       "rating": 4.8,
       "likes": 1532,
-      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfHhoU7AiXrERbi4pGw2m3j100KcUf0Iz9g&usqp=CAU",
       "experience": "15 years",
       "numOfRecipes": 75
     },
     {
-      "name": "Chef Maria",
+      "name": "Thomas Keller",
       "id": 4,
       "rating": 4.3,
       "likes": 846,
-      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+      "picture": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
       "experience": "12 years",
       "numOfRecipes": 60
     },
@@ -40,16 +40,16 @@
       "id": 5,
       "rating": 4,
       "likes": 721,
-      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+      "picture": "https://resume-example.com/wp-content/uploads/2021/05/professional-chef-man-on-job-interview-talking-with-woman-in-kitchen-1024x682.jpg",
       "experience": "6 years",
       "numOfRecipes": 30
     },
     {
-      "name": "Chef Emily",
+      "name": "Emeril Lagasse",
       "id": 6,
       "rating": 4.7,
       "likes": 1342,
-      "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+      "picture": "https://www.staffingattiffanies.com/wp-content/uploads/2021/08/happy-male-indian-chef.jpg",
       "experience": "9 years",
       "numOfRecipes": 45
     }
